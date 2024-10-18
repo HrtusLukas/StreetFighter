@@ -1,0 +1,14 @@
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\bin\Debug\net8.0\StreetFighterGame.exe
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\bin\Debug\net8.0\StreetFighterGame.deps.json
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\bin\Debug\net8.0\StreetFighterGame.runtimeconfig.json
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\bin\Debug\net8.0\StreetFighterGame.dll
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\bin\Debug\net8.0\StreetFighterGame.pdb
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\obj\Debug\net8.0\StreetFighterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\obj\Debug\net8.0\StreetFighterGame.AssemblyInfoInputs.cache
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\obj\Debug\net8.0\StreetFighterGame.AssemblyInfo.cs
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\obj\Debug\net8.0\StreetFighterGame.csproj.CoreCompileInputs.cache
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\obj\Debug\net8.0\StreetFighterGame.dll
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\obj\Debug\net8.0\refint\StreetFighterGame.dll
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\obj\Debug\net8.0\StreetFighterGame.pdb
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\obj\Debug\net8.0\StreetFighterGame.genruntimeconfig.cache
+C:\Users\lukas\OneDrive\Počítač\Práca\StreetFighter\StreetFighterGame\obj\Debug\net8.0\ref\StreetFighterGame.dll
